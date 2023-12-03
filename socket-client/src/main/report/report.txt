@@ -1,0 +1,7 @@
+Player1 -> Success: 100; Bad: 0; MidTime: 5
+Player2 -> Success: 100; Bad: 0; MidTime: 4
+Player3 -> Success: 100; Bad: 0; MidTime: 5
+Player4 -> Success: 100; Bad: 0; MidTime: 4
+Player5 -> Success: 100; Bad: 0; MidTime: 4
+Player6 -> Success: 100; Bad: 0; MidTime: 3
+Player7 -> Success: 100; Bad: 0; MidTime: 4
